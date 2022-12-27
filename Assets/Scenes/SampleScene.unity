@@ -274,6 +274,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentBallRigidbody: {fileID: 938382690}
+  currentBallSpringJoint2D: {fileID: 938382694}
+  delayToFree: 0.15
 --- !u!1 &72213653
 GameObject:
   m_ObjectHideFlags: 0
